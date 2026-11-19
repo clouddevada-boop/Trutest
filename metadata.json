@@ -1,0 +1,6 @@
+{
+  "name": "TRUtest Diagnostic Report Generator",
+  "description": "Clinical laboratory report form and multi-page A4 PDF generator for Immunology/Serology and Biochemistry test results.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
